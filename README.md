@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for help with [myWeather](https://github.com/Atifsid/myWeather)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Atifsid](https://github.com/Atifsid)
-
 - 💬 Ask me about **Android Studio, Kotlin**
 
 - 💻 My primary coding and problem solving language: **Java**
