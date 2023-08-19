@@ -1,13 +1,11 @@
 <h1 align="center">Hey! 👋, I'm Atif Siddiqui</h1>
-<h3 align="center">A Self-Taught Android App Developer from India, Also interested in DevOps.</h3>
+<h3 align="center">A Self-Taught Android App Developer from India, Also interested in Web Development.</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **React, Angular and Spring Boot**
+- 
+- 💬 Ask me about **Java, Angular, Android Studio, Kotlin**
 
-- 🤝 I’m looking for help with [myWeather](https://github.com/Atifsid/myWeather)
-
-- 💬 Ask me about **Android Studio, Kotlin**
-
-- 💻 My primary coding and problem solving language: **Java**
+- 💻 My primary coding and problem-solving language: **Java**
 
 - 📫 How to reach me **atifsiddiqui35@gmail.com**
 
