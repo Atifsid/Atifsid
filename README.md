@@ -2,7 +2,7 @@
 <h3 align="center">A Self-Taught Android App Developer from India, Also interested in Web Development.</h3>
 
 - 🌱 I’m currently learning **React, Angular and Spring Boot**
-- 
+  
 - 💬 Ask me about **Java, Angular, Android Studio, Kotlin**
 
 - 💻 My primary coding and problem-solving language: **Java**
