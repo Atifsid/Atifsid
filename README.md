@@ -1,21 +1,27 @@
-<h1 align="center">Hey! 👋, I'm Atif Siddiqui</h1>
-<h3 align="center">A Self-Taught Android App Developer from India, Also interested in Web Development.</h3>
+## Hi, I'm Atif 👋
 
-- 🌱 I’m currently learning **React, Angular and Spring Boot**
-  
-- 💬 Ask me about **Java, Angular, Android Studio, Kotlin**
+Senior Software Developer in Ghaziabad, India. For 3.5+ years I've been shipping production systems across **mobile, web and backend**. Portfolio: **[atifsid.in](https://atifsid.in)**
 
-- 💻 My primary coding and problem-solving language: **Java**
+I currently lead a team of 3 at **Localwell**, building **MedCart**, a medicines and OTC e-commerce platform, plus the integrations gateway that brings partner orders into it. On the side I build **[JobsFlow](https://jobsflow.in)**, a job search that does the busywork for you.
 
-- 📫 How to reach me **atifsiddiqui35@gmail.com**
+### Selected work
 
-- ⚡ Fun fact **I adapt quickly**
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**JobsFlow**](https://jobsflow.in) | Ranks roles by fit with your resume, tailors the resume to each posting, finds referrers, tracks follow-ups. Turns a 2–3 hour application into under 2 minutes. | Node.js · React · Playwright |
+| **JobsPedia** | The data engine behind JobsFlow: 18 ATS platforms and 6 job-board APIs merged into one deduplicated dataset. | Node.js · TypeScript · SQLite |
+| [**HRMS**](https://github.com/Atifsid/hrms) | Role-based HR app with persistent auth and a 1,000+ record directory that stays usable on slow networks. | React Native · TanStack Query |
+| [**Email Verification**](https://github.com/Atifsid/email-verification) | Checks an address in real time with a direct SMTP handshake. | React · Node.js · Express |
+| [**Wong**](https://github.com/Atifsid/wong-frontend) | Serverless, Notion-style text sharing with no login. | Next.js · Cloudflare Workers · D1 · Hono |
+| [**Fleet Management Portal**](https://tms-frontend-neon.vercel.app/) | Enterprise portal with complex forms, large data tables and theming. | React · TypeScript |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atifsid_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atifsid_101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atifsid07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atifsid07" height="30" width="40" /></a>
-</p>
+### What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+**Frontend & mobile:** React, Next.js, React Native, Angular, Redux, Tailwind CSS<br>
+**Backend:** Node.js, Spring Boot, .NET / ASP.NET, REST API design<br>
+**Data & cloud:** PostgreSQL, MySQL, MSSQL, AWS (EC2, S3, Rekognition), Cloudflare Workers / D1<br>
+**Languages:** TypeScript, JavaScript, Java, Kotlin, C#, SQL
+
+### Get in touch
+
+[Portfolio](https://atifsid.in) · [LinkedIn](https://www.linkedin.com/in/atifsid07/) · [X / Twitter](https://x.com/AtifSid_101) · [heyatifsid@gmail.com](mailto:heyatifsid@gmail.com)
